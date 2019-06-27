@@ -17,7 +17,7 @@ export class AuthService {
     clientID: '9o1Tr9WZXgGw41QdE0CMSloLkYBCD4FH',
     domain: 'luisaguila.auth0.com',
     responseType: 'token id_token',
-    redirectUri: 'http://localhost:4200/callback',
+    redirectUri: 'https://master.d3jilrebft5p7p.amplifyapp.com/callback',
     scope: 'openid profile'
   });
 //Se cargan las rutas
